@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diaa H. H. Dwikat</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-<img src="https://www.cleverfond.com/services/website-design/" width="400" align="right" alt="coding">
+<img src="https://user-images.githubusercontent.com/78935503/180084412-4ac1505f-955c-4963-8c80-1a99ca6d8da7.png" width="400" align="right" alt="coding">
 - 🔭 I’m currently working on **react project**
 
 - 💬 Ask me about **react**
